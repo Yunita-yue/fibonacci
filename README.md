@@ -1,4 +1,4 @@
 这是一个Java程序
-用于打印fibonacci数列前200个数
+用于打印fibonacci数列前20项
 
 
